@@ -40,8 +40,9 @@ To Login As An admin You will Have to Use These Credentials :
 
 ### It is Built with
 
-- [![React][React.js]][React-url]
-- [![Tailwind][Tailwindcss.com]][Tailwind-url]
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2.2.19-green)
+![Node.js](https://img.shields.io/badge/Node.js-14.17.4-lightgrey)
 
 ### Other Features
 
@@ -51,4 +52,4 @@ To Login As An admin You will Have to Use These Credentials :
 
 ### Live(Deployed) Version
 
-- <a href="https://react-js-auth-aut.vercel.app/" target="_blank">https://react-js-auth-aut.vercel.app/</a>
+- <a href="https://react-js-auth-aut.vercel.app/" target="blank">https://react-js-auth-aut.vercel.app/</a>
