@@ -1,8 +1,54 @@
-# Login | Sign Up | User Management React App
+## Login | Sign Up | User Management React App
 
-## Functionalities Included in This Project
+This is a react application that allows users to create and manage accounts.
 
-### A User Is able to :
+### It Have Two Users:
 
-.. Create an Account
-.. Login into his/her account
+- Normal User
+- Admin
+
+### A User is able to :
+
+- Create an Account
+- Login into The Account
+
+### An Admin Is Able To :
+
+- See all the users
+- Delete a User
+- Edit a user
+
+## To get Started As A User
+
+To login as a user you have to Click on the dropdown arrow at the top and choose SignUp
+after Signing Up You will be redirected on the Login Page Where You will Put the Credentials you just used Signing Up
+
+## To get Started As An Admin :
+
+To Login As An admin You will Have to Use These Credentials :
+
+- Email
+
+  ```sh
+  klabadmin@gmail.com
+  ```
+
+- Password
+  ```sh
+  password
+  ```
+
+### It is Built with
+
+- [![React][React.js]][React-url]
+- [![Tailwind][Tailwindcss.com]][Tailwind-url]
+
+### Other Features
+
+- You can see the Name Of a person Who is logged In
+- it has the loading Features
+- Pagination When Displaying all users
+
+### Live(Deployed) Version
+
+- [https://react-js-auth-aut.vercel.app/](https://react-js-auth-aut.vercel.app/)
