@@ -1,0 +1,24 @@
+.head{
+ 
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.icon{
+    width: 60px;
+    height: 50px;
+}
+.iconn{
+    cursor: pointer;
+    width: 60px;
+    height: 50px;
+}
+
+.modal{
+   margin-left: 43%;
+}

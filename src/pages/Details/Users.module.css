@@ -1,0 +1,223 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* gap: 10px; */
+    justify-content: space-evenly;
+}
+.out{
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+    background-color: grey;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.adminName{
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.ad{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   border-radius: 15px !important;
+}
+
+
+.error{
+    margin-left: -90% !important;
+    position: absolute;
+}
+
+.succe{
+    margin-left: -90% !important;
+    position: absolute;
+}
+
+.right{
+    /* background-color: red; */
+    padding: 20px;
+}
+
+/* ============= */
+
+
+.sidebarrrightsidee{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    margin-top: 50px;
+  }
+  
+  .tablee{
+      overflow: hidden;
+      table-layout: auto;
+      box-shadow: 0px 10px 10px 10px#f9f6f6de;
+      border-radius: 10px;
+      width: 700px !important;
+      margin: auto;
+      overflow-x: auto;
+    }
+  
+    .tableeu{
+      margin-top: 50px;
+    }
+    
+    .tablee thead{
+      color: black;
+      font-weight: 800;
+    }
+    
+    .tablee th{
+      text-align: center;
+  
+    }
+  
+  
+    
+    .tablee th,
+    .tablee td{
+      padding: 0.5rem;
+    }
+    
+    .tablee td{
+      text-align: center;
+      width: 50px; 
+      overflow-wrap: break-word; 
+      word-wrap: break-word; 
+      word-break: break-word;
+    }
+    .tablee tbody tr:hover {
+      background-color: rgba(212, 192, 167, 0.724);
+      cursor: pointer;
+    }
+  
+  .actionf{
+    display: flex;
+    padding-left: 1.5rem !important;
+    width: 100%;
+  }
+    .actionss{
+      display: flex;
+      gap: 14px;
+      flex-direction: row;
+      justify-content: flex-end;  
+    }
+    .righttd{
+      width: 10% !important;
+      padding-left: 1rem !important;
+     
+    }
+    .righttdd{
+      width: 100% !important;
+      
+    }
+     
+    .deletebtns{
+      color: #e00902;
+    }
+    .editbuttonns{
+      color: #040504;
+    }
+  .downn{
+    padding-top: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .paginationButtons{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  .paginationButtons a {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    color: blue;
+    cursor: pointer;
+  }
+  
+  .paginationButtons a:hover{
+    color: white;
+    background-color: blue;
+  }
+  .activePage a{
+    color: white;
+    background-color: blue;
+  }
+   /* ======================== */
+    
+   /* ==========  Edit  ============== */
+
+   .addTrurForm{
+    background-color: white;
+    margin: 10px auto;
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    gap: 5px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 7px 1px 6px 8px #dcdadacf;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .addTrurForm label{
+    font-weight: 900;
+    border-radius: 10px;
+    border-left: 2px solid rgb(7, 1, 1);
+    color: rgb(0, 0, 0);
+    width: 50%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 19px;
+    margin-left: 1px;
+  }
+
+  .addTrurForm input{
+    width: 350px;
+    height: 4rem;
+    border-radius: 10px;
+    border: 1px solid grey;
+    outline: none;
+    font-size: 17px;
+    padding-left: 5px;
+    text-indent: 10px;
+    text-transform: capitalize;
+  }
+
+  .addTourbu{
+    background-color: black;
+    width: 50%;
+    height: 3rem;
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 15px;
+  }
+
+  .addTourbu:hover{
+    background-color: blue;
+    cursor: pointer;
+  }
+

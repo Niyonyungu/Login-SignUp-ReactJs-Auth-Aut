@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 110px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 900;
+}
+.span{
+    font-weight: 800;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.arr{
+    margin-left: 3px;
+    margin-right: 3px;
+    height: 30px;
+}
+
+.p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.name{
+    font-size: 40px;
+    color: blue;
+}
