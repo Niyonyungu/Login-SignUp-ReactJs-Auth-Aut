@@ -51,4 +51,4 @@ To Login As An admin You will Have to Use These Credentials :
 
 ### Live(Deployed) Version
 
-- [https://react-js-auth-aut.vercel.app/](https://react-js-auth-aut.vercel.app/)
+- [https://react-js-auth-aut.vercel.app/](https://react-js-auth-aut.vercel.app/){:target="\_blank"}
