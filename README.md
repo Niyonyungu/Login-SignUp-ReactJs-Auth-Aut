@@ -1,6 +1,7 @@
 ## Login | Sign Up | User Management React App
 
 This is a react application that allows users to create and manage accounts.
+![Project Screenshot](./src/assets/images/Auth.JPG)
 
 ### It Have Two Users:
 
