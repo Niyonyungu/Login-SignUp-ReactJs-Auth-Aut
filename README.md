@@ -4,8 +4,6 @@ This is a react application that allows users to create and manage accounts.
 
 ![Project Screenshot](./src/assets/images/Auth.JPG)
 
-- This is The Backend API I have Used To integrate those Functions [https://holiday-planner-4lnj.onrender.com/api-docs/#/](https://holiday-planner-4lnj.onrender.com/api-docs/#/)
-
 ### It Have Two Users:
 
 - Normal User
@@ -55,5 +53,7 @@ To Login As An admin You will Have to Use These Credentials :
 - Pagination When Displaying all users
 
 ### Live(Deployed) Version
+
+- This is The Backend API I have Used To integrate those Functions <a href="https://holiday-planner-4lnj.onrender.com/api-docs/#/" target="blank">https://holiday-planner-4lnj.onrender.com/api-docs/#/</a>
 
 - <a href="https://react-js-auth-aut.vercel.app/" target="blank">https://react-js-auth-aut.vercel.app/</a>
