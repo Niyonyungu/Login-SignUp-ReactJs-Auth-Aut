@@ -128,7 +128,10 @@ function Users() {
   const handleLogOut = () => {
     localStorage.removeItem("token");
     localStorage.removeItem("user");
-    navigate("/");
+    setTimeout(() => {
+      toast.success("Logged Out Successfully");
+      navigate("/");
+    }, 2000);
   };
 
   /*      ==========  End Logout =============      */
